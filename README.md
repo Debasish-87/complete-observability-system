@@ -82,7 +82,7 @@ Grafana default credentials:
 
 ### 1. Flask App Running
 
-![1b18dac2-adf0-437c-afc1-2025b0bbd919](https://github.com/user-attachments/assets/c410dabc-d8f4-4064-96e8-d96918d1f0ca)
+![83921eb3-31fd-47f6-8571-0123424f7653](https://github.com/user-attachments/assets/e1b3ce5e-c5b0-4488-9df0-bf49cc7da33d)
 
 ---
 
