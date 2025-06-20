@@ -82,25 +82,25 @@ Grafana default credentials:
 
 ### 1. Flask App Running
 
-![Flask App Welcome](./screenshots/1-flask-app.png)
+![1b18dac2-adf0-437c-afc1-2025b0bbd919](https://github.com/user-attachments/assets/c410dabc-d8f4-4064-96e8-d96918d1f0ca)
 
 ---
 
 ### 2. Prometheus Dashboard
 
-![Prometheus UI](./screenshots/2-prometheus.png)
+![928c675d-4882-4f81-b828-0b86e62f0554](https://github.com/user-attachments/assets/8dc25792-07e5-4999-afb6-55a36e469da6)
 
 ---
 
 ### 3. Jaeger UI Traces
 
-![Jaeger Tracing](./screenshots/3-jaeger.png)
+![1b18dac2-adf0-437c-afc1-2025b0bbd919](https://github.com/user-attachments/assets/f451a666-3527-4200-a7d4-08a66cfcbba5)
 
 ---
 
 ### 4. Grafana Observability Dashboard
 
-![Grafana Dashboard](./screenshots/4-grafana.png)
+![e3ee7173-e144-42ca-a07d-0f6451b9c9da](https://github.com/user-attachments/assets/356178fa-76e5-48fa-b446-cd234d293f96)
 
 ---
 
