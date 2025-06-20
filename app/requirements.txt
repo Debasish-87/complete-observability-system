@@ -1,0 +1,5 @@
+flask
+prometheus_client
+jaeger-client
+flask-opentracing
+six
