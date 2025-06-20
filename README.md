@@ -31,7 +31,7 @@ Build a complete containerized observability system that includes:
 ├── prometheus/prometheus.yml       # Prometheus config
 ├── promtail/promtail-config.yml    # Promtail config
 ├── docker-compose.yml              # Docker Compose stack
-├── Complete Observability System-<UID>.json  # Grafana dashboard JSON
+├── Complete Observability System-1750458231469.json  # Grafana dashboard JSON
 ```
 
 ---
