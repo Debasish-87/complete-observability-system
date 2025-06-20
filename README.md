@@ -3,26 +3,26 @@
 ## Objective
 
 Build a complete containerized observability system that includes:
-- Metrics collection using Prometheus
-- Centralized log aggregation using Loki
-- Distributed tracing using Jaeger
-- Unified visualization via Grafana dashboards
+
+* Metrics collection using Prometheus
+* Centralized log aggregation using Loki
+* Distributed tracing using Jaeger
+* Unified visualization via Grafana dashboards
 
 ## Tech Stack
 
-- Python (Flask)
-- Docker & Docker Compose
-- Prometheus (Metrics)
-- Loki + Promtail (Logs)
-- Jaeger (Tracing)
-- Grafana (Visualization)
+* Python (Flask)
+* Docker & Docker Compose
+* Prometheus (Metrics)
+* Loki + Promtail (Logs)
+* Jaeger (Tracing)
+* Grafana (Visualization)
 
 ---
 
 ## Project Structure
 
 ```
-
 .
 ├── app/                            # Flask app with logs and tracing
 │   ├── app.py
@@ -32,8 +32,7 @@ Build a complete containerized observability system that includes:
 ├── promtail/promtail-config.yml    # Promtail config
 ├── docker-compose.yml              # Docker Compose stack
 ├── Complete Observability System-<UID>.json  # Grafana dashboard JSON
-
-````
+```
 
 ---
 
@@ -41,16 +40,16 @@ Build a complete containerized observability system that includes:
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repo-url>
-   cd complete-observability
-````
+```bash
+git clone <repo-url>
+cd complete-observability
+```
 
 2. Start the stack:
 
-   ```bash
-   docker compose up --build
-   ```
+```bash
+docker compose up --build
+```
 
 3. Access the following dashboards:
 
@@ -63,19 +62,19 @@ Build a complete containerized observability system that includes:
 
 Grafana default credentials:
 
-* Username: admin
-* Password: admin
+* **Username:** admin
+* **Password:** admin
 
 ---
 
 ## Deliverables
 
-* docker-compose.yml
-* Prometheus and Promtail config files
-* Flask app with metrics, logs, and tracing
-* Grafana dashboard JSON
-* Log samples and trace visualization
-* Screenshot evidence (below)
+* `docker-compose.yml`
+* Prometheus and Promtail configuration files
+* Flask app instrumented with metrics, logs, and tracing
+* Grafana dashboard JSON file
+* Log samples and trace visualizations
+* Screenshot evidence (see below)
 
 ---
 
@@ -107,6 +106,4 @@ Grafana default credentials:
 
 ## Summary
 
-This project demonstrates a complete observability system in a containerized environment with real-time monitoring, logging, and tracing of a sample application.
-
-```
+This project demonstrates a production-style observability system built with open-source tools in a Docker-based environment. It showcases real-time metrics collection, centralized logging, and distributed tracing for a sample application, all visualized through Grafana.
